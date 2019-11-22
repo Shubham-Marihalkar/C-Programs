@@ -1,0 +1,6 @@
+Asset no=1
+Asset name=CALCULATOR
+Asset price=900.00
+Asset no=2
+Asset name=SCALE
+Asset price=10.00
